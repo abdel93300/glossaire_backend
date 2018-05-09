@@ -20,7 +20,7 @@ public class AcronymController {
 
         name="ARE";
         Date date = new Date();
-        
+
         String summary="summary de ARE";
         String definition= "définition longue de ARE";
         Description description= new Description(summary,definition);
